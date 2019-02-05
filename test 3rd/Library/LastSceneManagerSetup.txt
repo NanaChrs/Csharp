@@ -1,0 +1,4 @@
+sceneSetups:
+- path: D:/Documents/Unity Projects/first/Assets/Scenes/thirdPerson.unity
+  isLoaded: 1
+  isActive: 1
