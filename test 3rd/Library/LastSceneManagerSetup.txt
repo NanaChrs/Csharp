@@ -1,4 +1,4 @@
 sceneSetups:
-- path: D:/Documents/Unity Projects/first/Assets/Scenes/thirdPerson.unity
+- path: Assets/Robot Kyle/Scenes/level1.unity
   isLoaded: 1
   isActive: 1

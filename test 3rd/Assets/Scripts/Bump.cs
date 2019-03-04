@@ -8,7 +8,7 @@ public class Bump : MonoBehaviour
     public float forceX;
     public float forceY;
     public float forceZ;
-    private Vector3 force = new Vector3(0, 0, 0);
+    private Vector3 force = new Vector3(0, 5, 5);
 
     Rigidbody rb;
 

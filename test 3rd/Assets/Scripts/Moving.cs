@@ -32,7 +32,7 @@ public class Moving : MonoBehaviour // trouver solution quand initialPosition < 
         {
             if (z > zfin || z > initialPosition)
             {
-                transform.Translate(0, 0, (float)-0.05);
+                transform.Translate(0, 0, (float)-0.02);
             }
             else if (z <= zfin || z <= initialPosition)
             {
@@ -42,7 +42,7 @@ public class Moving : MonoBehaviour // trouver solution quand initialPosition < 
         else if (direction == 0) {
             if (z <= initialPosition || z <= zfin)
             {
-                transform.Translate(0, 0, (float)0.05);
+                transform.Translate(0, 0, (float)0.02);
             }
             else if (z >= initialPosition || z >= zfin)
             {
